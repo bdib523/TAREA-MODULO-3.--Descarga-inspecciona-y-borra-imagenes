@@ -85,8 +85,3 @@ docker images
 La imagen `ubuntu:20.04` ya no aparece en la lista, por lo que se ha eliminado correctamente.
 
 
-## Archivos de la práctica
-
-- `README.md`: documentación de la práctica.
-- `info.txt`: información obtenida de la imagen Ubuntu 20.04 mediante `docker image inspect`.
-- Capturas de pantalla: evidencias de los comandos y resultados de cada apartado.
